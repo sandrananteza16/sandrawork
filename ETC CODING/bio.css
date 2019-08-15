@@ -1,0 +1,75 @@
+.parent {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.heading, .education, .business, .follow {
+    text-align: center;
+    border: dotted 1px;
+    padding: 20px 40px 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+    margin: 20px;
+    background-color:skyblue;
+    color: blueviolet;
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+.heading img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border-radius: 200px ;
+
+}
+
+h1 {
+    background-color:white;
+    color:rgb(0, 204, 255);
+    font: bolder;
+    display:inline-block;
+    
+}
+.business{
+  color: violet;
+  background-color: skyblue;
+  font-family: serif;
+  display: 
+
+}
+.education{
+  color:violet;
+  background-color: blueviolet;
+  font-family: sans-serif
+}
+.interests{ 
+  margin:auto;
+  width: 50%;
+  padding: 20px;
+  border: solid 2px;
+  box-shadow: 10px 10px 10px gray;
+  color:blueviolet;
+  border-right-color:red;
+  border-radius: 60px;
+
+}
+.list1{
+  float: left;
+}
+.list2{
+  float:right;
+}
+.list3{
+  float: center;
+}
+.follow{
+  color:blueviolet;
+  
+}
+.heading, .interests{
+  background-color: beige;
+}

@@ -1,0 +1,36 @@
+.btn-one{
+    color:#1da1f2;
+    border-color:#1da1f2;
+    border-radius: 30px;
+    background-color: white;
+    font-weight: bold;
+    border: 1px solid;
+    
+    
+
+}
+
+.button-1{
+    background-color:#1da1f2;
+    color: white;
+    width: 90%;
+    border-radius: 100px;
+    height: 30px;
+    margin-left: 10px;
+    font-weight: bold;
+    border: 1px solid;
+    
+    
+}
+.button-2{
+    color: #1da1f2 ;
+    background-color: white;
+    width: 90%;
+    border-radius: 100px;
+    border-color:#1da1f2;
+    height: 30px;
+    margin-left: 10px;
+    font-weight: bold;
+    border: 1px solid;
+    
+}

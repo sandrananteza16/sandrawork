@@ -1,0 +1,47 @@
+p {
+    background-color: yellow
+}
+h1{
+    background-color: aqua;
+    font-size: 200%;
+    text-align: center;
+
+    
+}
+.first{
+    font-weight: bold;
+}.done {
+    text-decoration: line-through;
+}
+third{
+    color: blueviolet
+}
+h2 {
+    text-align: left
+}
+h3{
+    text-align: right;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    
+}
+.mydiv{
+    background-color: red;
+    width: 50%;
+    height: 50%
+}
+.div-2{
+    background-color: yellow;
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+}
+
+
+#heading{
+    text-shadow: 1px 1px yellow;
+    color: rgb(255, 200, blue)
+.
